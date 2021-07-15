@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iprankurpandey
 - 👀 I’m interested in Technology and Computers
-- 🌱 I’m currently learning Best practice for SDET and DevOps
+- 🌱 I’m currently learning Best practice for coding in Python
 - 💞️ I’m looking to collaborate on Automation and DevOps 
 - 📫 You can reach me here : twitter.com/iprankurpandey
 
