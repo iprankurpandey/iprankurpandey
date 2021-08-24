@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iprankurpandey
 - 👀 I’m interested in Technology and Computers
-- 🌱 I’m currently learning Best practice for web development in Python
-- 💞️ I’m looking to collaborate on Automation and DevOps 
+- 🌱 I’m currently learning Best practice for web development.
+- 💞️ I’m looking to collaborate on web dev and DevOps 
 - 📫 You can reach me here : twitter.com/iprankurpandey
 Site URL :https://prankursportfolio.netlify.app/
 
