@@ -2,8 +2,9 @@
 - 👀 I’m interested in Technology and Computers
 - 🌱 I’m currently learning Best practice for web development.
 - 💞️ I’m looking to collaborate on web dev and DevOps 
-- 📫 You can reach me here : twitter.com/iprankurpandey
+- 📫 You can reach me here : [twitter.com/iprankurpandey]
 Site URL :https://prankursportfolio.netlify.app/
+![](https://github.com/iprankurpandey/github-stats/blob/master/generated/overview.svg)
 
 
 <!---
