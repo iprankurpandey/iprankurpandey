@@ -5,6 +5,8 @@
 - 📫 You can reach me here : [twitter.com/iprankurpandey]
 Site URL :https://prankursportfolio.netlify.app/
 ![](https://github.com/iprankurpandey/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/iprankurpandey/github-stats/blob/master/generated/languages.svg)
+
 
 
 <!---
