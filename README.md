@@ -79,6 +79,5 @@
 
 <!--<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprankurpandey&show_icons=true&locale=en&layout=compact" alt="iprankurpandey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprankurpandey&show_icons=true&locale=en&layout=compact" alt="iprankurpandey" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iprankurpandey&show_icons=true&locale=en" alt="iprankurpandey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iprankurpandey&show_icons=true&locale=en" alt="iprankurpandey" /></p>
