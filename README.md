@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/iprankurpandey" target="blank"><img src="https://img.shields.io/twitter/follow/iprankurpandey?logo=twitter&style=for-the-badge" alt="iprankurpandey" /></a> </p>
 
-- 🔭 I’m currently working on **neogcamp level zero**
+- 🔭 I’m currently learning with **neogcamp**
 
 - 🌱 I’m currently learning **React and Javascript**
 
