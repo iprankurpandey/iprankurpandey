@@ -7,11 +7,9 @@
 
 
 
-- 🔭 I’m currently learning with **neogcamp**
-
 - 🌱 I’m currently learning **React and Javascript**
 
-- 👯 I’m looking to collaborate on **web development and devops**
+- 👯 I’m interested in **web development and devops**
 
 - 👨‍💻 All of my projects are available at [https://prankursportfolio.netlify.app/](https://prankursportfolio.netlify.app/)
 
