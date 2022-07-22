@@ -19,6 +19,10 @@
 - 💬 Ask me about **React JS**
 
 - 📫 How to reach me **pprankur@gmail.com**
+<p>All my work life at one place:<p>
+  <a href="https://peerlist.io/iprankurpandey"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
+  <br>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
