@@ -43,7 +43,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprankurpandey&show_icons=true&locale=en&layout=compact" alt="iprankurpandey" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iprankurpandey&show_icons=true&locale=en" alt="iprankurpandey" 
 />
+  
 [![wakatime](https://wakatime.com/badge/user/e3811de2-0a52-4ea2-9086-f609b86ecb77.svg)](https://wakatime.com/@e3811de2-0a52-4ea2-9086-f609b86ecb77)
+  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iprankurpandey)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Support:</h3> <p><a href="https://www.buymeacoffee.com/iprankurpandey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iprankurpandey" /></a></p><br><br>
