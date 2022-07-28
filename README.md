@@ -6,7 +6,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e3811de2-0a52-4ea2-9086-f609b86ecb77.svg)](https://wakatime.com/@e3811de2-0a52-4ea2-9086-f609b86ecb77)
 [![twitter](https://img.shields.io/twitter/follow/iprankurpandey?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/iprankurpandey)
-[![linkedn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/iprankurpadey)
+[![linkedn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/iprankurpandey/)
 
 
 
