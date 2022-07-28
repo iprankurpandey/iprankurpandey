@@ -6,7 +6,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/e3811de2-0a52-4ea2-9086-f609b86ecb77.svg)](https://wakatime.com/@e3811de2-0a52-4ea2-9086-f609b86ecb77)
 [![twitter](https://img.shields.io/twitter/follow/iprankurpandey?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/iprankurpandey)
-[![linkedn](https://img.shields.io/badge/Linkedin-Follow-blue)](https://linkedin.com/in/iprankurpadey)
+[![linkedn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/iprankurpadey)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iprankurpandey" alt="iprankurpandey" /></a> </p>
