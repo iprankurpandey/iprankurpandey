@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on **My personal Projects**
 
-- 🌱 I’m currently learning **Full Stack Development and DevOps**
+- 🌱 I’m currently learning **Typescript and Jest**
 
 - 👯 I’m looking to collaborate on **Front End Developement**
 
 - 📝 I regularly write articles on [https://dev.to/iprankurpandey](https://dev.to/iprankurpandey)
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **Web development and DevOps**
 
 - 📫 How to reach me **pprankur@gmail.com**
 <p>All my work life at one place:<p>
