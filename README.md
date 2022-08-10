@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prankur Pandey</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prankurnov15&label=Profile%20views&color=0e75b6&style=flat" alt="iprankurpandey" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/e3811de2-0a52-4ea2-9086-f609b86ecb77.svg)](https://wakatime.com/@e3811de2-0a52-4ea2-9086-f609b86ecb77)
-[![twitter](https://img.shields.io/twitter/follow/prankurnov15?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/iprankurpandey)
+[![twitter](https://img.shields.io/twitter/follow/prankurnov15?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/prankurnov15)
 [![linkedn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/prankurnov15/)
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iprankurpandey" alt="iprankurpandey" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prankurnov15" alt="iprankurpandey" /></a> </p>
 
 - 🔭 I’m currently working on **My personal Projects**
 
@@ -22,15 +22,12 @@
 
 - 💬 Ask me about **Web development and DevOps**
 
-- 📫 How to reach me **pprankur@gmail.com**
-<p>All my work life at one place:<p>
-  <a href="https://peerlist.io/prankurnov15"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
-  <br>
 
-
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
+<!-- BLOG-POST-LIST:END --> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
