@@ -2,11 +2,11 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iprankurpandey&label=Profile%20views&color=0e75b6&style=flat" alt="iprankurpandey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prankurnov15&label=Profile%20views&color=0e75b6&style=flat" alt="iprankurpandey" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/e3811de2-0a52-4ea2-9086-f609b86ecb77.svg)](https://wakatime.com/@e3811de2-0a52-4ea2-9086-f609b86ecb77)
-[![twitter](https://img.shields.io/twitter/follow/iprankurpandey?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/iprankurpandey)
-[![linkedn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/iprankurpandey/)
+[![twitter](https://img.shields.io/twitter/follow/prankurnov15?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/iprankurpandey)
+[![linkedn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/prankurnov15/)
 
 
 
@@ -18,13 +18,13 @@
 
 - 👯 I’m looking to collaborate on **Front End Developement**
 
-- 📝 I regularly write articles on [https://dev.to/iprankurpandey](https://dev.to/iprankurpandey)
+- 📝 I regularly write articles on [https://dev.to/prankurnov15](https://dev.to/prankurnov15)
 
 - 💬 Ask me about **Web development and DevOps**
 
 - 📫 How to reach me **pprankur@gmail.com**
 <p>All my work life at one place:<p>
-  <a href="https://peerlist.io/iprankurpandey"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
+  <a href="https://peerlist.io/prankurnov15"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
   <br>
 
 
@@ -46,8 +46,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprankurpandey&show_icons=true&locale=en&layout=compact" alt="iprankurpandey" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iprankurpandey&show_icons=true&locale=en" alt="iprankurpandey" 
 />
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iprankurpandey)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Support:</h3> <p><a href="https://www.buymeacoffee.com/iprankurpandey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iprankurpandey" /></a></p><br><br>
 
