@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ppv3.netlify.app](https://ppv3.netlify.app)
 
-- 📝 I regularly write articles on [https://hashnode.com/@prankur34](https://hashnode.com/@prankur34)
+- 📝 I regularly write articles on [https://dev.to/prankur34](https://dev.to/@prankur34)
 
 - 💬 Ask me about **React JS and Front End Development**
 
